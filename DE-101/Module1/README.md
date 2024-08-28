@@ -11,4 +11,4 @@ Storage Layer — слой хранения данных.
 Business Layer — слой для доступа к данным.
 Данные как товар для целевой аудитории — бизнес клиентов, аналитиков.
 
-<img src='https://github.com/siochy/data-learn/blob/main/DE-101/Module1/arch_layers.drawio.png' alt='Архитектура Аналитического Решения'>
+<img src='https://raw.githubusercontent.com/siochy/data-learn/main/DE-101/Module1/Module1.drawio.png' alt='Архитектура Сбора Данных'>
