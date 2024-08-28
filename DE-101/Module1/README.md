@@ -10,5 +10,5 @@
 
 <h4>Business Layer</h4> слой для доступа к данным.
 Данные как товар для целевой аудитории — бизнес клиентов, аналитиков.
-<br/>
+___
 <img src='https://raw.githubusercontent.com/siochy/data-learn/main/DE-101/Module1/Module1.drawio.png' alt='Архитектура Сбора Данных'>
