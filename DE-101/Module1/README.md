@@ -12,3 +12,5 @@
 Данные как товар для целевой аудитории — бизнес клиентов, аналитиков.
 <br><br><br><br>
 <img src='https://raw.githubusercontent.com/siochy/data-learn/main/DE-101/Module1/Module1.drawio.png' alt='Архитектура Сбора Данных'>
+
+<h2>Работа в Excel</h2>
