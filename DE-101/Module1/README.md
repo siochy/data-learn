@@ -19,3 +19,43 @@
 
 ### Работа в Excel
 
+#### Знакомство с данными
+
+[Данные](https://github.com/siochy/data-learn/blob/main/DE-101/Module1/Sample%20-%20Superstore.xls)
+
+#### Создание отчётов и диаграм
+
+**Дашборд**
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/Dashboard.png' alt='Дашборд'>
+
+
+**Продажи и прибыль**
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/TotalSales.png' alt='Продажи'>
+
+**Скидки**
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/DiscountPivot.png' alt='Скидки'>
+
+**Менеджеры**
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/ManagerSales.png' alt='Менеджеры'>
+
+**Регионы**
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/RegionSales.png' alt='Регионы'>
+
+**Возвраты**
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/ReturnedPivot.png' alt='Возвраты'>
+
+**Продажи по сегментам**
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/SegmentSalesMonthly.png' alt='Сегменты'>
+
+#### Итоговая таблица
+
+[Итоговая таблица](https://github.com/siochy/data-learn/blob/main/DE-101/Module1/Superstore_Dashboard.xlsx)
+
+[Итоговая таблица в Google Sheets](https://docs.google.com/spreadsheets/d/1K6em5YCNkrTaLMWEIvk7A0o0_e1Q1gzhX4tIMt0Gpqo/edit?usp=sharing)
