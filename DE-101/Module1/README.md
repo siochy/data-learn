@@ -34,23 +34,23 @@
 
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/TotalSales.png' alt='Продажи'>
 
-**Скидки**
+**Количество скидок**
 
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/DiscountPivot.png' alt='Скидки'>
 
-**Менеджеры**
+**Продажи и прибыль каждого менеджера**
 
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/ManagerSales.png' alt='Менеджеры'>
 
-**Регионы**
+**Доли продаж регионов**
 
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/RegionSales.png' alt='Регионы'>
 
-**Возвраты**
+**Количество возвратов**
 
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/ReturnedPivot.png' alt='Возвраты'>
 
-**Продажи по сегментам**
+**Продажи сегментов по месяцам**
 
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/SegmentSalesMonthly.png' alt='Сегменты'>
 
