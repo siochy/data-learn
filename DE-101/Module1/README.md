@@ -23,7 +23,7 @@
 
 [Данные](https://github.com/siochy/data-learn/blob/main/DE-101/Module1/Sample%20-%20Superstore.xls)
 
-#### Создание отчётов и диаграм
+#### Создание отчётов и диаграмм
 
 **Дашборд**
 
