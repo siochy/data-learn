@@ -13,7 +13,7 @@
 
 ---
 
-<img src='https://raw.githubusercontent.com/siochy/data-learn/main/DE-101/Module1/Module1.drawio.png' alt='Архитектура Сбора Данных'>
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module1/layers.png' alt='Архитектура Сбора Данных'>
 
 ---
 
