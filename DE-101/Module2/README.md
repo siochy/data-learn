@@ -17,9 +17,9 @@
 
 
 - [Что из этой идеи получилось](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/xls_to_sql.py)
-- [Таблица Orders]()
-- [Таблица People]()
-- [Таблица Returns]()
+- [Таблица Orders](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/orders.sql)
+- [Таблица People](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/people.sql)
+- [Таблица Returns](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/returns.sql)
 
 ---
 
