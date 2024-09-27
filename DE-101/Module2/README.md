@@ -16,7 +16,7 @@
 В силу ограниченных, но всё же знаний, я принялся извлекать данные из таблиц Excel через Pandas и psycopg.
 
 
-- [Что из этой идеи получилось]()
+- [Что из этой идеи получилось](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/xls_to_sql.py)
 - [Таблица Orders]()
 - [Таблица People]()
 - [Таблица Returns]()
