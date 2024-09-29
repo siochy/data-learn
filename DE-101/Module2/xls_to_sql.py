@@ -31,7 +31,7 @@ with pg.connect(DB) as cn:
         region text,
         product_id text,
         category text,
-        sub_cutegory text,
+        sub_category text,
         product_name text,
         sales numeric,
         quantity int,
