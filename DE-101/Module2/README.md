@@ -50,9 +50,11 @@
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/db_pgadmin.png' alt='БД'>
 
 
-
 ---
 
 ### Дашборды
 
 Пришлось хорошенько покопать в поисках рабочего BI-сервиса. В итоге, меня выручил Klip, в который у меня всё же получилось загрузить данные из облачной БД, и я принялся делать дашборд.
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/db_klip.png' alt='Klip'>
+
