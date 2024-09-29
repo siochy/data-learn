@@ -17,9 +17,9 @@
 
 
 - [Что из этой идеи получилось](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/xls_to_sql.py)
-- [Таблица Orders](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/orders.sql)
-- [Таблица People](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/people.sql)
-- [Таблица Returns](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/returns.sql)
+- [Таблица Orders](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/stg_orders.sql)
+- [Таблица People](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/stg_people.sql)
+- [Таблица Returns](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/stg_returns.sql)
 
 ---
 
@@ -39,11 +39,16 @@
 
 Далее реализовал модели в БД, перетащив данные из таблиц.
 
+[Transform](https://github.com/siochy/data-learn/blob/main/DE-101/Module2/stg_to_bw.sql)
+
 ---
 
 ### Загрузка в облачную БД
 
-Ранее я уже пользовался облаком на Amvera, поэтому снова решил разместить там БД.
+Ранее я уже пользовался облаком на Amvera, поэтому снова решил разместить там БД. Реализована там работа с БД через pgAdmin.
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/db_pgadmin.png' alt='БД'>
+
 
 
 ---
