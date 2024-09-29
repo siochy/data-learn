@@ -25,16 +25,16 @@
 
 ### Модели данных (Трансформация)
 
-Я решил воспользоваться инструментом sqldbm. Через него я построил Концептуальную и Физическую модели. Логическую же я построил отдельно в ***
+Я решил воспользоваться инструментом sqldbm. Через него я построил Концептуальную и Физическую модели. Логическую же я построил отдельно в draw.io
 
 
 Получились такие таблицы.
 
-<img src='' alt='Концептуальная'>
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/conceptual.png' alt='Концептуальная'>
 
-<img src='' alt='Логическая'>
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/logical.png' alt='Логическая'>
 
-<img src='' alt='Физическая'>
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/physical.png' alt='Физическая'>
 
 
 Далее реализовал модели в БД, перетащив данные из таблиц.
