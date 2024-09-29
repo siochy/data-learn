@@ -34,7 +34,7 @@
 
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/logical.png' alt='Логическая'>
 
-<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/physical.png' alt='Физическая'>
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/physical_fix.png' alt='Физическая'>
 
 
 Далее реализовал модели в БД, перетащив данные из таблиц.
