@@ -58,3 +58,11 @@
 
 <img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/db_klip.png' alt='Klip'>
 
+Функционал Klipfolio меня не впечатлил, но на безрыбье тоже инструмент.
+
+<img src='https://raw.githubusercontent.com/siochy/data-learn/refs/heads/main/DE-101/Module2/dashboard_klipfolio.png' alt='Dashboard'>
+
+---
+
+Спасибо за внимание!
+
